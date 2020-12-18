@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello Everyone!
+
+My name is Agatha Rista.
+I'm trying to learn about GitHub.
